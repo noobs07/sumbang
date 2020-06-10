@@ -32,4 +32,13 @@ class Home extends CI_Controller {
 	public function tentang(){
 		$this->load->view('public/about');
 	}
+	public function portfolio(){
+		$this->load->view('public/portfolio');
+	}
+	public function kontak(){
+		$this->load->view('public/kontak');
+	}
+	public function kategori(){
+		$this->load->view('public/kategori');
+	}
 }
