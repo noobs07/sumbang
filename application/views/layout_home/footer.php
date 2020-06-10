@@ -20,7 +20,7 @@
                         <h2>Menu</h2>
 
                         <ul>
-                            <li><a href="<?php echo base_url('home/tentang')?>">Tentang Kami</a></li>
+                                <li><a href="<?php echo base_url('home/tentang')?>">Tentang Kami</a></li>
                                 <li><a href="causes.html">Kategori</a></li>
                                 <li><a href="<?php echo base_url('home/news')?>">Blog</a></li>
                                 <li><a href="contact.html">Login/Register</a></li>
