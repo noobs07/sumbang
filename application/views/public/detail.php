@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-12 d-flex flex-wrap justify-content-between align-items-center">
                         <div class="site-branding d-flex align-items-center">
-                            <a class="d-block" href="index.html" rel="home"><img class="d-block" src="<?php echo base_url('assets/images/logo.png')?>" alt="logo"></a>
+                            <a class="d-block" href="<?php echo base_url(''); ?>" rel="home"><img class="d-block" src="<?php echo base_url('assets/images/logo.png')?>" alt="logo"></a>
                         </div><!-- .site-branding -->
 
                         <?php $this->load->view('layout_home/menu') ?>
