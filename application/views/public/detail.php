@@ -42,34 +42,73 @@
 
                     
                     <div class="section-heading">
-                        <h2 class="entry-title">Sumbang Bangunan Sekolah </h2>
+                        <h4 class="entry-title">Rumah Sakit dr. Mutiara Akbar </h4>
                     </div><!-- .section-heading -->
 
-                    <img src="<?php echo base_url('assets/images/tes.jpg')?>" alt="" style="margin-top:20px;">
+                    <img src="<?php echo base_url('assets/images/tes-apd.jpg')?>" alt="" style="margin-top:10px;">
 
 
                     <div class="entry-content mt-5" style="margin-top:0px;">
-                        <p>Dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam. Lorem ipsum dolor sit amet.</p>
+                        <p>[ Detil Gambar ] Penjelasan mengenai Gambar yang ada</p>
                     </div><!-- .entry-content -->
+					<div class="donation-form-wrap" style="text-align: center;">
+					<div class="fund-raised w-100">
+					   
+                            <div class="featured-fund-raised-bar barfiller">
+                                <div class="tipWrap">
+                                    <span class="tip"></span>
+                                </div><!-- .tipWrap -->
 
+                                <span class="fill" data-percentage="83"></span>
+                            </div><!-- .fund-raised-bar -->
+					</div><!-- .fund-raised-bar -->
+                            
+                        </div><!-- .fund-raised -->
                     
-                    <div class="short-content">
-                        <h3 class="entry-title">Description</h3>
+                    <div class="short-content" style="margin-top:20px">
+					 <div class="donation-form-wrap" style="text-align: center;">
+						 <h4>Saat ini telah terkumpul di partner kami : 83 Persen </h4>
+						 </div>
+                        <h3 class="entry-title" style="text-align: center;">RS dr. Mutiara Akbar Feat Sumbang.id </h3>
+						
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris. Lorem ipsum dolor sit amet, consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam. Integer accumsan sodales odio, id tempus velit ullamc.</p>
+                        <p>Perkenalkan saya dr Erina Amalia dari Rumah Sakit Mutiara Akbar, saya koordinator donasi untuk RS Mutiara Akbar.  
+Sudah taukah bahwa setiap hari masih ada penambahan pasien covid19 di Kota Malang?
+<br><br>
+Berapa banyak tenaga medis yang mempertaruhkan nyawanya demi menyelamatkan korban Covid-19?
+<br><br>
+Tahukah kita bahwa Indonesia sudah menyaingi China dalam hal korban Covid-19 dari tenaga medis terutama Dokter. Berapa banyak orang orang hebat yang kita acuhkan keselamatannya sementara mereka sendiri bertaruh nyawa untuk kita ?
+<br><br>
+Mereka pahlawan, mereka berjuang, mereka sedang berjuang ☝️☝️
+Namun, tidak dengan senjata dan perlindungan yang lengkap ????
+</p>
                     </div>
 
                     <div class="short-content">
-                        <h3 class="entry-title">Additional Information</h3>
+                        <h3 class="entry-title">Detail Kebutuhan Donasi Batch #3</h3>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam. Integer accumsan sodales odio, id tempus velit ullamcorper id. Quisque at erat eu libero consequat tempus. Quisque molestie convallis tempus. Ut semper purus metus.</p>
-                    </div>
+                        <p>Pada Batch #3 ini Rumah Sakit Kami membutuhkan Bantuan :
+						<li> Masker Earloop : 1000 Masker
+						<li> Masker Hijab : 1000 Masker
+						<li> Masker N-95 : 100 Masker
+						<li> Hazmat Suit : 100 Suit
+						<li> Loker 3 Pintu : 3 Loker
+						<li> Apron : 30 suit
+						</p></div>
 
                     <div class="short-content">
-                        <h3 class="entry-title">Our Goal</h3>
+                        <h3 class="entry-title">Informasi Tambahan</h3>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam. Integer accumsan sodales odio, id tempus velit ullamcorper id. Quisque at erat eu libero consequat tempus. Quisque molestie convallis tempus. Ut semper purus metus.</p>
-                    </div>
+                        <p>Alamat : JL. Raya KM 4 RT, Kauman, Pleret, Kec. Pleret, Bantul, Daerah Istimewa Yogyakarta 55791
+						<br>
+						Situs : http://rspermatahusada.com/
+						<br>
+						No Telp : +62274441313
+						<br>
+						Koordinator Donasi : 082232994076
+						
+						
+						</p></div>
 
                    
                     
@@ -79,7 +118,8 @@
                     
                     <div class="donation-form-wrap" style="text-align: center;">
                         <img src="<?php echo base_url('assets/images/logo.png')?>" style="width:50%; margin:0;">
-                        <h2>Make a donation</h2>
+                        <h2>Detail Donasi</h2>
+						<h4>Untuk Masing-Masing Item</h4>
     
                         <div class="short-content" >
                             
@@ -90,27 +130,163 @@
                         <form class="donation-form">
                             
 
-                            <div class="fund-raised w-100 mt-5">
-                                <div class="featured-fund-raised-bar barfiller">
+                            <div class="fund-raised w-100 mt-2">
+							
+							 <div class="Item d-flex flex-wrap justify-content-between align-items-left">
+							  <div class="item-total mt-3">
+                                        Masker Earloop
+                              </div><!-- .fund-raised-total -->
+							 </div><!-- .item-->
+							   <div class="fund-raised-total mt-3">
+                               </div><!-- .fund-raised-total -->
+							 
+                                <div class="fund-raised-bar-1  barfiller">
+                                    <div class="tipWrap">
+                                        <span class="tip"></span>
+                                    </div><!-- .tipWrap -->
+                                    <span class="fill" data-percentage="25"></span>
+                                </div><!-- .fund-raised-bar -->
+                                <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
+		                            <div class="fund-raised-total mt-3">
+                                        Terkumpul : 250
+                                    </div><!-- .fund-raised-total -->
+                                    <div class="fund-raised-goal mt-3">
+                                        Total : 1000
+                                    </div><!-- .fund-raised-goal -->
+                                </div><!-- .fund-raised-details -->
+                            
+							<div class="fund-raised w-100 mt-2">
+							 <div class="Item d-flex flex-wrap justify-content-between align-items-left">
+							  <div class="item-total mt-3">
+                                        Masker Hijab
+                              </div><!-- .fund-raised-total -->
+							 </div><!-- .item-->
+							   <div class="fund-raised-total mt-3">
+                               </div><!-- .fund-raised-total -->
+						
+                                <div class="fund-raised-bar-2 barfiller">
                                     <div class="tipWrap">
                                         <span class="tip"></span>
                                     </div><!-- .tipWrap -->
         
-                                    <span class="fill" data-percentage="50"></span>
+                                    <span class="fill" data-percentage="75"></span>
                                 </div><!-- .fund-raised-bar -->
         
                                 <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="fund-raised-total mt-4">
-                                        Raised: $56 880
+                                    <div class="fund-raised-total mt-3">
+                                        Terkumpul : 750
                                     </div><!-- .fund-raised-total -->
         
-                                    <div class="fund-raised-goal mt-4">
-                                        Goal: $70 000
+                                    <div class="fund-raised-goal mt-3">
+                                        Total : 1000
                                     </div><!-- .fund-raised-goal -->
                                 </div><!-- .fund-raised-details -->
                             </div><!-- .fund-raised -->
-
-    
+							 <div class="fund-raised w-100 mt-2">
+							
+							 <div class="Item d-flex flex-wrap justify-content-between align-items-left">
+							  <div class="item-total mt-3">
+                                        Masker N-95 
+                              </div><!-- .fund-raised-total -->
+							 </div><!-- .item-->
+							   <div class="fund-raised-total mt-3">
+                               </div><!-- .fund-raised-total -->
+							 
+                                <div class="fund-raised-bar-3  barfiller">
+                                    <div class="tipWrap">
+                                        <span class="tip"></span>
+                                    </div><!-- .tipWrap -->
+                                    <span class="fill" data-percentage="20"></span>
+                                </div><!-- .fund-raised-bar -->
+                                <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
+		                            <div class="fund-raised-total mt-3">
+                                        Terkumpul : 20
+                                    </div><!-- .fund-raised-total -->
+                                    <div class="fund-raised-goal mt-3">
+                                        Total : 100
+                                    </div><!-- .fund-raised-goal -->
+                                </div><!-- .fund-raised-details -->
+                            
+							<div class="fund-raised w-100 mt-2">
+							
+							 <div class="Item d-flex flex-wrap justify-content-between align-items-left">
+							  <div class="item-total mt-3">
+                                        Hazmat Suit
+                              </div><!-- .fund-raised-total -->
+							 </div><!-- .item-->
+							   <div class="fund-raised-total mt-3">
+                               </div><!-- .fund-raised-total -->
+							 
+                                <div class="fund-raised-bar-4  barfiller">
+                                    <div class="tipWrap">
+                                        <span class="tip"></span>
+                                    </div><!-- .tipWrap -->
+                                    <span class="fill" data-percentage="50"></span>
+                                </div><!-- .fund-raised-bar -->
+                                <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
+		                            <div class="fund-raised-total mt-3">
+                                        Terkumpul : 50
+                                    </div><!-- .fund-raised-total -->
+                                    <div class="fund-raised-goal mt-3">
+                                        Total : 100
+                                    </div><!-- .fund-raised-goal -->
+                                </div><!-- .fund-raised-details -->
+							
+							<div class="fund-raised w-100 mt-2">
+							
+							 <div class="Item d-flex flex-wrap justify-content-between align-items-left">
+							  <div class="item-total mt-3">
+                                        Loker Tim Covid-19
+                              </div><!-- .fund-raised-total -->
+							 </div><!-- .item-->
+							   <div class="fund-raised-total mt-3">
+                               </div><!-- .fund-raised-total -->
+							 
+                                <div class="fund-raised-bar-5  barfiller">
+                                    <div class="tipWrap">
+                                        <span class="tip"></span>
+                                    </div><!-- .tipWrap -->
+                                    <span class="fill" data-percentage="100"></span>
+                                </div><!-- .fund-raised-bar -->
+                                <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
+		                            <div class="fund-raised-total mt-3">
+                                        Terkumpul : 3
+                                    </div><!-- .fund-raised-total -->
+                                    <div class="fund-raised-goal mt-3">
+                                        Total : 3
+                                    </div><!-- .fund-raised-goal -->
+                                </div><!-- .fund-raised-details -->
+							
+							
+							<div class="fund-raised w-100 mt-2">
+							
+							 <div class="Item d-flex flex-wrap justify-content-between align-items-left">
+							  <div class="item-total mt-3">
+                                        Apron
+                              </div><!-- .fund-raised-total -->
+							 </div><!-- .item-->
+							   <div class="fund-raised-total mt-3">
+                               </div><!-- .fund-raised-total -->
+							 
+                                <div class="fund-raised-bar-6  barfiller">
+                                    <div class="tipWrap">
+                                        <span class="tip"></span>
+                                    </div><!-- .tipWrap -->
+                                    <span class="fill" data-percentage="84"></span>
+                                </div><!-- .fund-raised-bar -->
+                                <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
+		                            <div class="fund-raised-total mt-3">
+                                        Terkumpul : 25
+                                    </div><!-- .fund-raised-total -->
+                                    <div class="fund-raised-goal mt-3">
+                                        Total : 30
+                                    </div><!-- .fund-raised-goal -->
+                                </div><!-- .fund-raised-details -->
+							
+							</div><!-- .fund-raised -->					
+							</div><!-- .fund-raised -->
+						</div><!-- .fund-raised -->
+						</div><!-- .fund-raised -->
                             <input class="btn gradient-bg mt-5" type="submit" value="Donate Now">
                         </form>
                     </div>
